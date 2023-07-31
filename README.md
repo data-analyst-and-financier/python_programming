@@ -1,2 +1,3 @@
-# python_programming
-Solving problems of different levels from the course on the Stepik website.
+# My solutions
+
+В приложенном файле содержатся тексты задач и их решения, содержащиеся в курсе [«Программирование на Python»](https://stepik.org/course/67/info) от Института бионинформатиики. 
