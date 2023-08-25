@@ -1,4 +1,4 @@
-# My solutions
+# Problem solving
 
 В файле [My solution](https://github.com/data-analyst-and-financier/python_programming_course/blob/main/My%20solutions.ipynb) содержатся тексты задач из курса [«Программирование на Python»](https://stepik.org/course/67/info) от Института биоинформатики и их решения c комментариями.
 
